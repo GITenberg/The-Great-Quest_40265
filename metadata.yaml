@@ -1,0 +1,40 @@
+_repo: The-Great-Quest_40265
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Varian, George
+    alias: Varian, George Edmund
+    birthdate: 1865
+    deathdate: &id001 1923
+    gutenberg_agent_id: '31657'
+    url: http://www.gutenberg.org/2009/agents/31657
+covers:
+- cover_type: archival
+  image_path: 40265-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hawes, Charles Boardman
+    birthdate: 1889
+    deathdate: *id001
+    gutenberg_agent_id: '3120'
+    url: http://www.gutenberg.org/2009/agents/3120
+description: ''
+gutenberg_issued: '2012-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40265'
+  lccn: '21017013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cuba -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Sea stories'
+- !lcsh 'Guinea, Gulf of -- Fiction'
+title: "The Great Quest\r\nA romance of 1826, wherein are recorded the experiences\
+  \ of Josiah Woods of Topham, and of those others with whom he sailed for Cuba and\
+  \ the Gulf of Guinea"
+url: http://www.gutenberg.org/ebooks/40265
